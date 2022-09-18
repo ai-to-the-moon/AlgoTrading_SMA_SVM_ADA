@@ -50,9 +50,9 @@ Out of the three models tested, the SVM (support vector machine) model produces 
 
 ![StrategyReturnsSMA](Images/StrategyReturnsSMA.png)
 
-![Strategy ReturnsSVM](Images/Strategy ReturnsSVM.png)
+![Strategy ReturnsSVM](Images/StrategyReturnsSVM.png)
 
-![Strategy ReturnsADA](Images/Strategy ReturnsADA.png)
+![Strategy ReturnsADA](Images/StrategyReturnsADA.png)
 
 ## References
 
