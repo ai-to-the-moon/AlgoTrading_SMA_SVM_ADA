@@ -1,0 +1,1 @@
+# AlgoTrading_SMA_SVM_ADA
