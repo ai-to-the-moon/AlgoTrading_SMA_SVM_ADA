@@ -48,11 +48,11 @@ report = classification_report(y_test, y_pred)
 
 Out of the three models tested, the SVM (support vector machine) model produces the highest rate of return at the end of the trading window, followed by the AdaBoost model (which actually exceeded the performace of the SVM model but went downhill after that), and then the model purely based on SMA (simple moving averages). 
 
-![Strategy Returns - SMA](Images/Strategy Returns - SMA.PNG)
+![StrategyReturnsSMA](Images/StrategyReturnsSMA.png)
 
-![Strategy Returns - SVM](Images/Strategy Returns - SVM.png)
+![Strategy ReturnsSVM](Images/Strategy ReturnsSVM.png)
 
-![Strategy Returns - ADA](Images/Strategy Returns - ADA.png)
+![Strategy ReturnsADA](Images/Strategy ReturnsADA.png)
 
 ## References
 
